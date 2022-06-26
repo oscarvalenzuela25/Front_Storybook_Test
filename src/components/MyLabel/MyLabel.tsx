@@ -27,7 +27,7 @@ export interface Props {
  * Mi primer componente UI en storyBook! Cool
  */
 const MyLabel = ({
-  label = 'Label',
+  label = 'My Label',
   size = 'normal',
   allCaps = false,
   color = 'primary',
